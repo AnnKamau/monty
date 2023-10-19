@@ -7,7 +7,7 @@
  * Return: none
  */
 
-void f-pint(stack_t **head, unsigned int counter)
+void f_pint(stack_t **head, unsigned int counter)
 {
 	if (*head == NULL)
 	{
